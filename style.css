@@ -1,0 +1,536 @@
+/* header cascading style sheet */
+/* header cascading style sheet */
+.main-bg{
+	background-color: #d6e6ef;
+}
+
+.header .bgi{
+    background-image: url(https://i.ibb.co/SwCPGxS/menu-bg.png);
+    background-size: cover;
+    padding: 26px;
+
+}
+.header .bgi .menu ul {
+	margin-left: 67px;
+}
+.header .bgi .menu ul li{
+    display: inline-block;
+}
+.header .bgi .menu ul li a {
+	display: block;
+	text-decoration: none;
+	color: #ffff;
+	padding: 0px 26px;
+	font-size: 15px;
+	font-weight: bold;
+	margin-bottom: 4px;
+}
+.left-bg {
+	height: 200px;
+	width: 258px;
+	background-color: #e1ecf2;
+	border: 7px solid #fff;
+	border-radius: 12%;
+	position: relative;
+	top: -171px;
+	left: 30px;
+	transform: rotate(-10deg);
+}
+.left-bg .img-bg {
+	margin: auto;
+	max-width: 78%;
+	margin-top: 100px;
+}
+.img-bg img {
+	max-width: 100%;
+}
+.left-bg span {
+	color: #299fca;
+	display: inline-block;
+	margin-top: 7px;
+	font-size: 16px;
+	font-weight: bold;
+}
+/* banner-img cascading style sheet */
+/* banner-img cascading style sheet */
+.slider {
+	position: relative;
+	top: -435px;
+}
+.banner-bgimg {
+	background-image: url(https://i.ibb.co/pJ5y3p6/header-back-bg.png);
+	background-size: cover;
+	height: 463px;
+	position: relative;
+	top: -41px;
+	width: 101%;
+	right: 0px;
+}
+.banner-bgimg .font-bg {
+	background-image: url(https://i.ibb.co/hF2T5JY/header-font-bg.png);
+	background-size: cover;
+	position: relative;
+	top: -274px;
+	width: 123%;
+	right: 130px;
+	box-sizing: border-box;
+	padding: 120px 0;
+}
+.air-img {
+	position: relative;
+	top: -183px;
+	left: 6px;
+}
+.bg-top-img{
+    background-image: url(https://developerjillur.xyz/mypractice/safaritourair/img/background_top.png);
+    height: 200px;
+}
+.air-img-caption {
+	position: relative;
+	top: -359px;
+	width: 280px;
+	text-align: center;
+	left: 288px;
+}
+.air-img-caption span {
+	font-size: 22px;
+	font-weight: bold;
+	color: #ded90e;
+}
+.white-bg-img {
+	background-image: url(https://developerjillur.xyz/mypractice/safaritourair/img/main_header_images.png);
+	height: 419px;
+	position: relative;
+	top: 234px;
+	left: 0;
+	background-size: cover;
+	background-position: center;
+	/* border: 2px solid black; */
+}
+/* slider left cascading style sheet */
+/* slider left cascading style sheet */
+.slider .form {
+	border: 12px solid #7ebee0;
+	width: 307px;
+	height: 556px;
+	margin-left: 161px;
+	margin-bottom: -144px;
+	margin-top: -242px;
+	padding: 103px 31px;
+	box-sizing: content-box;
+	background-color: #299fca;
+	border-radius: 38px;
+}
+.ex-edit-la {
+	/* border: 1px solid #ffff; */
+	width: 106px;
+	color: #ffff;
+	font-size: 15px;
+	font-weight: 605;
+}
+.col-sm-2.col-form-label.ex-edit-la span {
+	margin-left: 6px;
+}
+.ex-edit-in {
+	width: 214px;
+	position: relative;
+	top: 0px;
+	left: -20px;
+	/* border: 2px solid white; */
+	color: #299fd3;
+	margin-bottom: 14px;
+}
+.color-text {
+	color: #299fca;
+	border-radius: 8px;
+	width: 184px;
+	border: 5px solid #7ebee0;
+	font-weight: 528;
+}
+.form-group textarea {
+	color: #299fca;
+	border: 5px solid #7ebee0;
+	border-radius: 8px;
+}
+/*  */
+/* .col-sm-2.col-form-label.ex-edit-la.select-edit {
+	position: relative;
+	top: 0;
+	right: 12px;
+} */
+.custom-select.ex-edit-in {
+	width: 179px;
+	border: 5px solid #7ebee0;
+	border-radius: 8px;
+	font-weight: 502;
+}
+/*  */
+.form .col-sm-10.offset-sm-2 {
+	text-align: right;
+	position: relative;
+	top: 0;
+	right: 36px;
+}
+.btn.btn-primary {
+	width: 115px;
+	padding: 4px 0;
+	background-color: #ebe10d;
+	color: #299fca;
+}
+/*  */
+.left-top-img1 {
+	position: relative;
+	bottom: 335px;
+	left: -66px;
+}
+.img1-caption {
+	position: absolute;
+	top: 6px;
+	left: 27px;
+	font-size: 21px;
+	font-weight: bold;
+	color: #ffffff;
+}
+.left-img2 {
+	position: relative;
+	top: -68px;
+	right: 4px;
+}
+/*  */
+/* font bg post cascading style sheet */
+/* font bg post cascading style sheet */
+.offer-top {
+	position: relative;
+	top: 79px;
+	left: 0;
+}
+.offer-top .h2 {
+	color: #ffffff;
+	font-weight: 529;
+	font-size: 29px;
+}
+.right-post h3 {
+	color: #ffffff;
+	font-size: 19px;
+	font-weight: bold;
+}
+.right-post p {
+	color: #ffff;
+	font-weight: 501;
+	font-size: 14px;
+}
+.offer-top span {
+	font-size: 26px;
+	color: #ffffff;
+}
+.offer-top a {
+	background-color: #e6dc10;
+	display: inline-block;
+	padding: 4px 17px;
+	text-decoration: none;
+	color: #127ea5;
+	font-weight: 517;
+	border-radius: 11px;
+}
+.offer-price {
+	position: relative;
+	top: 0;
+	left: 267px;
+}
+.offer-top.mb-5.brdr {
+	border-bottom: 1px dashed #ffff;
+	padding-bottom: 26px;
+}
+/* right head cascading style sheet */
+/* right head cascading style sheet */
+.right-head {
+	position: relative;
+	top: 100px;
+	left: 109px;
+	/* border-bottom: 1px solid #81ffff; */
+}
+.spans {
+	position: relative;
+	top: 97px;
+	left: -76px;
+}
+.right-head span a {
+	text-decoration: none;
+	color: #127ea5;
+	background-color: #81ffff;
+	/* display: inline-block; */
+	padding: 3px 24px;
+	float: left;
+	margin-right: 10px;
+	border-radius: 8px 8px 0 0;
+}
+.right-head p a {
+	text-decoration: none;
+	color: #81f6ef;
+	background-color: #299fca;
+	display: inline-block;
+	padding: 3px 24px;
+	border-radius: 8px 8px 0 0;
+}
+.right-head .h2 {
+	background-color: #f2e60a;
+	display: inline-block;
+	position: relative;
+	top: 8px;
+	left: -60px;
+	border-radius: 50%;
+	height: 146px;
+	width: 160px;
+	padding: 36px 28px;
+	color: #64affc;
+	font-weight: bold;
+	font-size: 29px;
+}
+.right-head .h3 {
+	background-color: #34abd6;
+	display: inline-block;
+	border-radius: 50%;
+	height: 73px;
+	width: 82px;
+	padding: 21px 15px;
+	border: 4px solid #fff;
+	color: #ffff;
+	font-size: 20px;
+	position: relative;
+	top: 19px;
+	left: -88px;
+}
+/* right post cascading style sheet */
+/* right post cascading style sheet */
+.right-post-in {
+	margin-top: 12px;
+}
+.right-posts {
+	height: 200px;
+	width: 635px;
+	color: #ffff;
+	position: relative;
+	top: 73px;
+	left: 33px;
+	border-top: 1px solid #81ffff;
+	background-color: #127ea5;
+}
+.right-posts p span {
+	display: inline-block;
+	height: 20px;
+	width: 20px;
+	background-color: #81ffff;
+	border-radius: 50%;
+	padding: 0px 4px;
+	font-size: 12px;
+	color: #127ea5;
+	font-weight: bold;
+	margin-right: 7px;
+}
+.right-post-in p {
+	margin-bottom: 10px;
+	font-size: 15px;
+	font-weight: 566;
+}
+.right-post-offers pre a {
+	text-decoration: none;
+	color: #ffff;
+	font-size: 16px;
+}
+.right-post-offers pre {
+	font-size: 16px;
+	margin-bottom: 9px;
+}
+/* location cascading style sheet */
+/* location cascading style sheet */
+.location {
+	background-color: #d6e6ef;
+	margin-top: 277px;
+	box-sizing: content-box;
+	min-height: 639px;
+	position: relative;
+	z-index: 99;
+}
+.location-map {
+	/* background-image: url(https://developerjillur.xyz/mypractice/safaritourair/img/map.png); */
+	background-image: url(https://i.ibb.co/7zC09XV/map.png);
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	width: 1061px;
+	margin: 66px auto;
+	height: 525px;
+}
+.location::after{
+	content: '';
+	height: 100%;
+	width: 100%;
+	background-color: rgba(214, 230, 239, 0.6);
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: -1;
+}
+.location-head {
+	position: relative;
+	bottom: -8px;
+	margin: auto;
+	width: 500px;
+	text-align: center;
+}
+.location-head h1 {
+	font-size: 27px;
+	font-weight: bold;
+	color: #4690b4;
+}
+.location-head span a {
+	text-decoration: none;
+	font-size: 18px;
+}
+.location-slider {
+	position: relative;
+	top: 47px;
+	left: 288px;
+}
+.lo-slider-post {
+	background-color: #e9e5e5;
+	width: 292px;
+	padding: 19px;
+	border-radius: 13px;
+	border: 1px solid #ffff;
+	height: 325px;
+}
+.lo-slider-post .caption {
+	color: #a4a4b9;
+}
+.lo-slider-post .caption span {
+	font-size: 17px;
+	font-weight: 501;
+}
+.lo-slider-post .caption p {
+	font-size: 15px;
+	font-weight: 400;
+}
+.lo-slider-post .h2 {
+	font-size: 26px;
+	width: 181px;
+	color: #7d7d7d;
+	margin: auto;
+	font-weight: bold;
+}
+.try-angle img {
+	position: relative;
+	top: -101px;
+	left: 271px;
+}
+
+/* footer cascading style sheet */
+/* footer cascading style sheet */
+.footers {
+	background-color: #127ea5;
+	width: 1346px;
+	margin-left: -119px;
+}
+.footers .difoult-form {
+	background-image: url(https://i.ibb.co/RzN3gLJ/input-bg.png);
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-color: rgba(0, 0, 0, .0);
+	height: 33px;
+	border: medium none;
+	width: 194px;
+	border-radius: 9px;
+	padding-left: 10px;
+	color: #ffff;
+	font-size: 15px;
+	margin-bottom: 5px;
+}
+
+.footer-left-head .h3 {
+	color: #ffff;
+	font-size: 29px;
+	font-weight: 501;
+	margin-top: 26px;
+}
+.footers label {
+	background-color: #d6e6ef;
+	color: #127ea5;
+	margin-left: 8px;
+	padding: 4px 8px;
+	font-size: 16px;
+	border-radius: 9px;
+}
+.footers label a{
+	text-decoration: none;
+}
+.footers .social-menu h3 {
+	color: #ffffffff;
+	font-size: 29px;
+	font-weight: 501;
+}
+
+.footers .social-menu ul li{
+	display: inline-block;
+}
+
+.footers .social-menu ul li a {
+	display: block;
+	background-color: #3bb3de;
+	height: 29px;
+	width: 29px;
+	padding: 1px 7px;
+	font-size: 16px;
+	border-radius: 50%;
+	color: #9bd8ee;
+	margin-right: 3px;
+	margin-top: 7px;
+}
+
+/* mid menu cascading style sheet */
+/* mid menu cascading style sheet */
+.footers ul {
+	list-style-type: none;
+	list-style-position: outside;
+	position: relative;
+	top: 0;
+	right: 33px;
+}
+.footers li {
+	color: #fff;
+	font-size: 15px;
+	margin-bottom: 6px;
+}
+.mid-footer-head .h3 {
+	color: #fff;
+	font-size: 32px;
+	font-weight: bold;
+	margin-top: 25px;
+	margin-bottom: 11px;
+}
+.textarea-bg {
+	background-image: url(https://i.ibb.co/3c9xqpX/textarea-bg.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center center;
+	border: medium none;
+	padding: 0px;
+	box-sizing: border-box;
+	background-color: rgba(0, 0, 0, .2);
+	border-radius: 10px;
+}
+.forms a {
+	display: inline-block;
+	background-color: #d6e6ef;
+	color: #127ea5;
+	text-decoration: none;
+	margin: 7px;
+	padding: 7px 11px;
+	border-radius: 9px;
+	font-size: 16px;
+	font-weight: 500;
+	position: relative;
+	top: 0;
+	left: 226px;
+}
